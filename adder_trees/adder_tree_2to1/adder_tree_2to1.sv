@@ -1,3 +1,4 @@
+// Quartus Binary Adder Tree 
 module adder_tree_2to1 #(
     parameter SIZE = 10,
     parameter NUM = 1024
